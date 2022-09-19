@@ -19,7 +19,7 @@ Highly passionate about building web applications and confident enough to learn 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:grid","grid-teplate-columns:repeat(3,1fr)">
+<div style="display:grid;""grid-teplate-columns:repeat(3,1fr);">
  
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  
