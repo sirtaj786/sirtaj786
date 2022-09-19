@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Self-Development, Problem Solving Skill<br>👯 I’m looking to collaborate on Learning Reactjs<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Full Stack Web Developer<br>💬 Ask me about Javascript, ReactJS
+🔭I’m currently learning Full Stack Web Developer<br>👯 I’m looking to collaborate on Learning Reactjs<br>🤝 I’m looking for help with DSA<br>🌱 <br>💬 Ask me about Javascript, ReactJS,HTML
 
 [![](https://visitcount.itsvg.in/api?id=sirtaj786&icon=0&color=11)](https://visitcount.itsvg.in)
 
