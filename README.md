@@ -19,7 +19,7 @@ Highly passionate about building web applications and confident enough to learn 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<div style="display:grid","grid-teplate-columns:repeat(3,1fr)">
  
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  
@@ -45,6 +45,7 @@ Highly passionate about building web applications and confident enough to learn 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  
  </p>
+ </div>
  
 <p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirtaj786" alt="sirtaj786" /></a>
