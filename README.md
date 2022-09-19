@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently learning Full Stack Web Developer<br>👯 I’m looking to collaborate on Learning Reactjs<br>🤝 I’m looking for help with DSA<br>🌱 <br>💬 Ask me about Javascript, ReactJS,HTML
+🔭I’m currently learning Full Stack Web Developer<br>👯 Highly passionate about building web applications and confident enough to learn new things<br>🤝 I’m looking for help with DSA💬 Ask me about Javascript, ReactJS,HTML
 
 [![](https://visitcount.itsvg.in/api?id=sirtaj786&icon=0&color=11)](https://visitcount.itsvg.in)
 
