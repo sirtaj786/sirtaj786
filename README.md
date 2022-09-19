@@ -2,7 +2,8 @@
 <h3 align="center">A passionate MERN developer from India</h3>
 
 
-- 🔭 I’m currently working on **A Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things**
+- 🔭 I’m currently working on **A Full Stack Web Developer skilled in MERN Stack.
+Highly passionate about building web applications and confident enough to learn new things**
 
 - 🌱 I’m currently learning **Typescript**
 
