@@ -44,13 +44,14 @@ Highly passionate about building web applications and confident enough to learn 
  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  
+ </p>
  
-<!-- <p align="left"> -->
+<p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirtaj786" alt="sirtaj786" /></a>
-<!-- </p> -->
+</p>
 
-<!-- <p> -->
-<!--  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirtaj786&show_icons=true&locale=en&layout=compact" alt="sirtaj786" /></p> -->
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirtaj786&show_icons=true&locale=en&layout=compact" alt="sirtaj786" /></p>
 
 <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sirtaj786&show_icons=true&locale=en" alt="sirtaj786" /></p>
