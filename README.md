@@ -4,7 +4,7 @@
 
 A passionate Developer 💻, with good attention to detail and with the ability to write efficient code using MERN Stack. A learner who's always willing to learn and work across technologies and leverage them to solve real-life problems.
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Reactjs,javascript**
 
