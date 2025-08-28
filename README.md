@@ -1,16 +1,40 @@
 <h1 align="center">Hi 👋, I'm Sirtaj Khan</h1>
 
 
+🚀 **Node.js Developer** passionate about building **scalable, efficient, and reliable backend systems**.  
+I enjoy designing REST APIs, crafting database architectures (SQL & NoSQL), and building microservices that solve complex problems and turn ideas into production-ready solutions.  
 
-Aspiring Full Stack Developer who enjoys creating things
-that live on the internet. Enjoy learning new skills and
-implementing them by building interactive real-life
-projects Holds Hands-on Experience with MERN stack.
-Looking for a position in a tech organization where I can
-leverage my learning
-- 🌱 I’m currently learning **MERN** Stack
+---
 
-- 💬 Ask me about **Reactjs,javascript**
+## ⚡ What I Bring to the Table  
+
+- 🟢 Expertise in **Node.js, Express.js, and JavaScript/TypeScript**  
+- 🗄️ Strong database skills with **MySQL, MongoDB, Redis** + performance optimization  
+- 🔎 Proficient in **Elasticsearch** for search optimization and data indexing  
+- 📦 Skilled with **Docker** for containerized deployments & scalable infrastructure  
+- 🔌 Hands-on experience with **WebSockets** for real-time communication systems  
+- 🤖 Integration of **AI API services & AI tools** into backend applications  
+- 🌐 API development, system integration, and cloud deployment  
+- ✨ Focus on writing **clean, maintainable, and scalable code**  
+- 🤝 Collaborative mindset with a passion for **continuous learning & adaptability**  
+
+---
+
+## 💡 My Current Focus  
+
+I’m particularly excited about:  
+- Leveraging **AI technologies** to enhance user experiences  
+- Building **real-time backend systems** for automation and scalability  
+- Exploring new tools, frameworks, and **emerging technologies**  
+
+---
+
+## 👀 Open To Opportunities  
+
+👉 Currently seeking roles as a **Node.js / Backend Developer** where I can:  
+- Contribute to **high-performance, AI-ready, and real-time applications**  
+- Grow with a **forward-thinking team**  
+- Continue solving meaningful problems through technology  
 
 - 📫 How to reach me **ksritaj29@gmail.com**
 
