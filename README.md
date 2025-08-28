@@ -6,8 +6,6 @@ I enjoy designing REST APIs, crafting database architectures (SQL & NoSQL), and 
 
 ---
 
-## ⚡ What I Bring to the Table  
-
 - 🟢 Expertise in **Node.js, Express.js, and JavaScript/TypeScript**  
 - 🗄️ Strong database skills with **MySQL, MongoDB, Redis** + performance optimization  
 - 🔎 Proficient in **Elasticsearch** for search optimization and data indexing  
@@ -27,14 +25,6 @@ I’m particularly excited about:
 - Building **real-time backend systems** for automation and scalability  
 - Exploring new tools, frameworks, and **emerging technologies**  
 
----
-
-## 👀 Open To Opportunities  
-
-👉 Currently seeking roles as a **Node.js / Backend Developer** where I can:  
-- Contribute to **high-performance, AI-ready, and real-time applications**  
-- Grow with a **forward-thinking team**  
-- Continue solving meaningful problems through technology  
 
 - 📫 How to reach me **ksritaj29@gmail.com**
 
